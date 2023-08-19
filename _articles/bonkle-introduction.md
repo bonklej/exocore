@@ -3,7 +3,7 @@ published: true
 subtitle:
 topic:
 date: 2023-08-19
-tags: 
+tags: info
 foam_template:
   filepath: '_articles/bonkle-introduction.md'
   name: Article

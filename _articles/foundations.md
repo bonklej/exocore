@@ -3,7 +3,7 @@ published: true
 subtitle:
 topic:
 date: 2023-08-19
-tags: theory
+tags: info
 foam_template:
   filepath: '_articles/foundations.md'
   name: Article
