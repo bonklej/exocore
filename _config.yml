@@ -2,10 +2,10 @@
 # --- USER CONFIGURATION --- #
 ##############################
 
-title: Exocore
-description: A navigable, organised hypertext personal knowledge base
-url: https://exocore.netlify.app
-repository: remiliacorp/exocore
+title: Bonkle
+description: A navigable, organised hypertext personal knowledge base for Bokle
+url: https://bonkle.netlify.app
+repository: bonkle-j/exocore
 
 ##############################################
 # --- ANALYTICS CONFIGURATION (OPTIONAL) --- #
