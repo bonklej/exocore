@@ -34,6 +34,8 @@ The Treasury has four primary revenue streams:
 
 $BONKLE issuance occurs when the <a class="wiki-link" href="/articles/bidder">Bonkle Bidder</a> wins a Bonkler auction. $BONKLE is distributed to addresses who contributed ether to the <a class="wiki-link" href="/articles/entrance-queue">entrance queue</a> proportionate to their ether's fractional contribution in winning the day's Bonkler.
 
+# Supplementary
+
 ## How to navigate this site
 This site is currently under construction. The easiest way to navigate is by using the <a class="wiki-link" href="/pages/tags">Index</a> page found on the left side of the screen. A forthcoming step-by-step guide to Bonkler will begin from this main page and guide through the rest.
 
