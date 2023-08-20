@@ -5,7 +5,7 @@ title: Home
 
 # *Bonkle*
 
-Bonkle is a county fair in Remilia. Bonkle is a magnetic value capture mechanism. Bonkle is a year-long prank on a year-long prank. Bonkle is a daily challenge, Bonkle is a daily war. Bonkle is the token that runs only for a limited time, higher & higher, with you & me, together. Bonkle is a layer atop a Grand New Experimental Financial Adventure for the followers of the genius avant net art collective, Remilia Corporation. Propelled by reviled and cancelled Milady pfps, Bonkle is a bear hug on Bonkler, in bag-pumping alignment with the Remilia Corporation. Bonkle ushers on-chain financial artistry into brave new frontiers. Bonkle seeks to further the question of a finance art begun by Bonkler.
+Bonkle is a county fair in Remilia. Bonkle is a magnetic value capture mechanism. Bonkle is a year-long prank on a year-long prank. Bonkle is a daily challenge, Bonkle is a daily war. Bonkle is the token that runs only for a limited time, higher & higher, with you & me, together. Bonkle is a layer atop a Grand New Experimental Financial Adventure for the followers of the genius avant net art collective, Remilia Corporation. Propelled by the internationally renowned and beloved Milady Maker pfps, Bonkle is a bear hug on Bonkler, in financial alignment with the Remilia Corporation. Bonkle ushers on-chain financial artistry into brave new frontiers. Bonkle furthers the question of a finance art begun by Bonkler.
 
 ![](/images/bonkle_logo.png)
 *Mock up logo for Bonkle*
