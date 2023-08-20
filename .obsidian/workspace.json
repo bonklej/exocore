@@ -11,8 +11,12 @@
             "id": "68bdb0177a6320a6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_articles/re-auction.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_articles/re-auction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_articles/re-auction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_articles/re-auction.md"
+              }
             }
           },
           {
@@ -158,10 +166,13 @@
   },
   "active": "68bdb0177a6320a6",
   "lastOpenFiles": [
+    "_journal/2023-08-foundations.md",
+    "_articles/foundations.md",
+    "_articles/summary.md",
     "_articles/re-auction.md",
+    "_articles/bonkle-introduction.md",
     "_articles/team.md",
     "assets/imgs/bonkle_logo.png",
-    "_articles/bonkle-introduction.md",
     "_site/images/bonkle_logo.png",
     "_articles/attacks.md",
     "_articles/bonklecore.md",
@@ -173,8 +184,6 @@
     "_articles/reserve.md",
     "_articles/bidder.md",
     "_articles/entrance-queue.md",
-    "_articles/summary.md",
-    "_articles/foundations.md",
     "assets/attachments/bonkle_logo.png",
     "_daily/2023-08-19.md",
     "_daily/2022-10-29.md",
