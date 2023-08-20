@@ -3,6 +3,6 @@ layout: ring
 title: Webring
 ---
 
-| [Edith Reisen](http://reisen.netlify.app/) | Para-academic knowledge repository and power hikikomori optimization manual |
-| [Don's Directory](http://dons.directory/) | شارع بدون تبخير ساخن |
-| [Leili Laternapoiss](https://leili.netlify.app/) | Your entry into the magical Enlightenment of Lanternland! |
+| [Bonkle Infrastructure Diagram](https://www.figma.com/file/SnZshYPRAkjm9c5UlSEhxB/Bonkle-Infrastructure?type=whiteboard&node-id=0%3A1&t=cwGAj7haEStceeei-1) | Visual verview of infrastructure components and how they interact |
+| [Bonkler Auction](https://bonkler.remilia.org) | Bonkler main interface |
+| [Bonkler: Critical Notes](https://goldenlight.mirror.xyz/Eiwb6czqvQN-iQJHUGTFmJio3dRqpvjxkT8StWCIu3E) | What is Bonkler? |
