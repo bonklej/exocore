@@ -4,8 +4,8 @@ subtitle:
 date: 2023-08-19
 tags: info
 foam_template:
-  filepath: '_journal/2023-08-foundations.md'
-  name: Journal Entry
+  filepath: '_journal/foundations.md'
+  name: Foundations to Bonkle
 ---
 
 # Theoretical Foundations to the Realization of Bonkle
